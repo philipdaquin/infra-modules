@@ -1,2 +1,2 @@
 # Online Shopping - Infrastructure Manifest Modules
-Terraform and Kubernetes 
+**Terragrunt will pull the modules in this repository**
